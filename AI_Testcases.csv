@@ -1,0 +1,4 @@
+id,text,true_label,classical,base_distilbert,finetuned_distilbert,gpt
+1,I absolutely loved this movie. The acting was brilliant and I left the theater smiling.,pos,pos,pos,pos,pos
+2,"The film had a few interesting moments, but overall it was boring and far too long.",neg,neg,pos,neg,neg
+3,"If you like wasting time, you'll like this movie.",neg,neg,pos,neg,neg
